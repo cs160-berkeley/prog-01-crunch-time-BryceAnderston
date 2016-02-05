@@ -12,9 +12,9 @@ See "Crunch Time Overview" (http://screencast-o-matic.com/u/fIXe/bryceaa-crunch-
 
 ## Screenshots
 
-<img src="screenshots/FullSpinner.png" height="400" alt="Screenshot"/>
-<img src="screenshots/EditText.png" height="400" alt="Screenshot"/>
-<img src="screenshots/CalculateByCalories.png" height="400" alt="Screenshot"/>
+<img src="screenshots/FullSpinner.JPG" height="400" alt="Screenshot"/>
+<img src="screenshots/EditText.JPG" height="400" alt="Screenshot"/>
+<img src="screenshots/CalculateByCalories.JPG" height="400" alt="Screenshot"/>
 
 ## Acknowledgments
 
